@@ -71,7 +71,7 @@ Microservice ???
 * FrontEnd
 ```
 javascript ES6
-jquery vs Angular vs React vs Vue
+jquery vs vanilla js vs Angular vs React vs Vue
 html
 css
 bootstrap
